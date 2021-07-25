@@ -1,0 +1,48 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: century gothic;
+
+}
+
+header{
+	background-image: url(IAN.JPG);
+	background-position: center;
+    background-size: cover;
+      height: 100vh;
+
+}
+
+ul {
+	float: right;
+	margin-top: 25px;
+	list-style-type: none;
+
+}
+
+ul li{
+	display: inline-block;
+
+}
+
+ul li a{
+	text-decoration: none;
+	margin: 5px;
+	border: 1px solid #fff;
+	 transition: 0.6s ease;
+	}
+
+ul li a:hover{
+	background-color: #fff;
+	calour: #ooo;
+
+}
+ 
+ header:hover{
+ 	background-color: #fff;
+ 	calour: #000;
+
+ }
+
+
+
